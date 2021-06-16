@@ -1,0 +1,25 @@
+# Variables used in ENV file
+
+### API_KEY
+
+- FETCH_API_KEY
+- ADD_API_KEY
+- UPDATE_API_KEY
+- DELETE_API_KEY
+
+### Database details
+
+- DB_USERNAME
+- DB_PASSWORD
+- DB_NAME
+
+### Routes
+
+- FETCH_TODO
+- ADD_TODO
+- UPDATE_TODO
+- DELETE_TODO
+
+### URI
+
+- PORT_NUMBER
