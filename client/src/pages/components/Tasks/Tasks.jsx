@@ -45,7 +45,7 @@ const Tasks = ({ type }) => {
               )
             )
           ) : (
-            <span className="text-gray-444 dark:text-gray-50">NO data!</span>
+            <span className="font-thin text-gray-444 dark:text-gray-50 font-roboto">NO data!</span>
           )}
         </ul>
       );
